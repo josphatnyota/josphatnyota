@@ -17,7 +17,7 @@
 
 - 💬 Ask me about **Design**
 
-- 📫 Here is my Portfolio link <a href="mjnyota.me">**mjnyota.me**</a>
+- 📫 Here is my Portfolio link <a href="https://mjnyota.me/">**mjnyota.me**</a>
 
 - ⚡ Fun fact **I'm constantly learning and experimenting with new technologies - I love the thrill of trying something new and seeing how it works.**
 
