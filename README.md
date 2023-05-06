@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <h1 align="center">Hi 👋, I'm Nyota Josphat M.</h1>
 <h3 align="center">Passionate front-end developer and graphics designer with expertise in web design, equipped with a degree in software engineering.</h3>
@@ -17,7 +17,7 @@
 
 - 💬 Ask me about **Design**
 
-- 📫 Here is my Portfolio link **mjnyota.me**
+- 📫 Here is my Portfolio link <a href="mjnyota.me">**mjnyota.me**</a>**mjnyota.me**
 
 - ⚡ Fun fact **I'm constantly learning and experimenting with new technologies - I love the thrill of trying something new and seeing how it works.**
 
